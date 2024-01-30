@@ -1,0 +1,12 @@
+dependencies = []
+incompatibilities = []
+
+[metadata]
+id = "org.modweaver.api"
+version = "1.0.0"
+title = "ModWeaver API"
+authors = [
+    "Ecorous",
+    "reddust9"
+]
+game_version = 1.5
