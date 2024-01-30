@@ -164,6 +164,7 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Internal\InternalUtils.cs" />
         <Compile Include="ModMain.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>

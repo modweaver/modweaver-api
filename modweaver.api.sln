@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modweaver.api", "modweaver.api\modweaver.api.csproj", "{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}"
+Project("{FAE05EC0-301F-11D3-BF4B-00c04F78EFBC}") = "modweaver.testmod", "modweaver.testmod\modweaver.testmod.csproj", "{3F22B6F9-9458-44BE-84DC-41B78CBE0806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

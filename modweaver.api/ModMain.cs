@@ -1,13 +1,16 @@
 ﻿using HarmonyLib;
+using modweaver.api.Internal;
 using modweaver.core;
 
 namespace modweaver.api
 {
     [ModMainClass]
-    public class ModMain : Mod
+    public class ModweaverAPI : Mod
     {
         public override void Init()
         {
+            InternalUtils.Logger = Logger;
+            InternalUtils.init();
             // your manifest is the mw.mod.toml file
             // use Metadata to access the values you provided in the manifest. Manifest is also available, and provides the other data such as your dependencies and incompats
             Logger.Info("Loading {0} v{1} by {2}!", Metadata.title, Metadata.version,
