@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modweaver.api", "modweaver.api\modweaver.api.csproj", "{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}"
-Project("{FAE05EC0-301F-11D3-BF4B-00c04F78EFBC}") = "modweaver.testmod", "modweaver.testmod\modweaver.testmod.csproj", "{3F22B6F9-9458-44BE-84DC-41B78CBE0806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modweaver.testmod", "modweaver.testmod\modweaver.testmod.csproj", "{3F22B6F9-9458-44BE-84DC-41B78CBE0806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +17,15 @@ Global
 		{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F22B6F9-9458-44BE-84DC-41B78CBE0806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F22B6F9-9458-44BE-84DC-41B78CBE0806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F22B6F9-9458-44BE-84DC-41B78CBE0806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F22B6F9-9458-44BE-84DC-41B78CBE0806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F6F504-6A50-4464-AB40-500AF5C48A25}
 	EndGlobalSection
 EndGlobal

@@ -7,6 +7,7 @@ version = "1.0.0"
 title = "ModWeaver API"
 authors = [
     "Ecorous",
-    "reddust9"
+    "reddust9",
+    "Neko_Lover"
 ]
 game_version = 1.5

@@ -6,6 +6,7 @@ id = "org.modweaver.testmod"
 version = "1.0.0"
 title = "Test Mod"
 authors = [
-    "reddust9"
+    "reddust9",
+    "Neko_Lover"
 ]
-game_version = "1.4"
+game_version = "1.5"
