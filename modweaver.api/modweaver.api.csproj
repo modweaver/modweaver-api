@@ -8,8 +8,8 @@
         <ProjectGuid>{92CBA23E-4FE7-4282-9FFD-5CABA00CD0AF}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>modweaver_template</RootNamespace>
-        <AssemblyName>modweaver_template</AssemblyName>
+        <RootNamespace>modweaver_api</RootNamespace>
+        <AssemblyName>modweaver_api</AssemblyName>
         <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
