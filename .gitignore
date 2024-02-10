@@ -8,3 +8,4 @@ riderModule.iml
 /.vs/modweaver-api/FileContentIndex
 /.vs/modweaver-api/v17
 /.vs
+*.nupkg
