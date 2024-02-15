@@ -5,4 +5,7 @@ riderModule.iml
 /_ReSharper.Caches/
 .idea
 *.user
+/.vs/modweaver-api/FileContentIndex
+/.vs/modweaver-api/v17
+/.vs
 *.nupkg
